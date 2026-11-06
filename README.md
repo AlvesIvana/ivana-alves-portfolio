@@ -1,73 +1,38 @@
-# Olá, eu sou Ivana Alves
+# Olá! Eu sou Ivana Alves 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
-Tenho interesse em Análise de Dados, Business Intelligence e Inteligência Artificial, buscando desenvolver soluções que transformem dados em informações estratégicas para apoiar a tomada de decisões.
+💻 Técnica em Manutenção e Suporte em Informática pelo IFPE.
 
-Atualmente, estou ampliando meus conhecimentos por meio de projetos práticos, cursos e desafios voltados à análise de dados, automação e uso de Inteligência Artificial aplicada aos negócios.
+🤖 Interessada em Inteligência Artificial Generativa (GenAI), Engenharia de Prompts, Análise de Dados e Automação.
 
----
+📊 Desenvolvendo conhecimentos em Python, Power BI, SQL e aplicações de IA para resolução de problemas de negócio.
 
-## Sobre mim
+🚀 Meu objetivo é transformar desafios reais em soluções tecnológicas, utilizando dados e inteligência artificial para otimizar processos e apoiar a tomada de decisão.
 
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Técnica em Manutenção e Suporte em Informática (IFPE)
-- Experiência com ERP TOTVS, indicadores de desempenho e processos operacionais
-- Interesse em Análise de Dados, Business Intelligence e Inteligência Artificial
-- Em constante aprendizado e desenvolvimento profissional
+## Tecnologias e ferramentas
 
----
-
-## Tecnologias e Ferramentas
-
-- Power BI
-- Microsoft Excel
-- Python (básico)
+- Python – Básico
+- Power BI – Intermediário
+- Microsoft Excel – Intermediário
+- SQL – Em aprendizado
 - Git e GitHub
-- ERP TOTVS
-- NotebookLM
 - Inteligência Artificial Generativa
 - Engenharia de Prompts
+- NotebookLM
 
----
+## Projetos em destaque
 
-## Projetos
+📌 [Análise de Dados com IA – DIO](https://github.com/AlvesIvana/analise-de-dados-com-ia)
 
-### Introdução à Análise de Dados com Inteligência Artificial
+Projeto de estudos sobre aplicações de Inteligência Artificial na análise de dados, com utilização de NotebookLM, elaboração de prompts e organização de fontes de conhecimento.
 
-Projeto desenvolvido durante um desafio da DIO utilizando o NotebookLM para estudar conceitos de análise de dados, dashboards, Inteligência Artificial e tomada de decisão baseada em dados.
+## Formação
 
-**Principais atividades:**
-- Curadoria de fontes de estudo
-- Engenharia de prompts
-- Organização de conhecimento com NotebookLM
-- Documentação técnica em Markdown
-- Versionamento com GitHub
-
----
-
-## Atualmente estudando
-
-- Power BI
-- Python
-- Business Intelligence
-- Inteligência Artificial
-- Machine Learning
-- Git e GitHub
-
----
-
-## Objetivo Profissional
-
-Busco uma oportunidade de estágio na área de tecnologia para aplicar e desenvolver conhecimentos em Análise de Dados, Business Intelligence e Inteligência Artificial, contribuindo para soluções orientadas por dados e melhoria de processos.
-
----
+- Análise e Desenvolvimento de Sistemas – UNINASSAU (conclusão prevista: julho/2028).
+- Técnico em Manutenção e Suporte em Informática – IFPE (2017).
 
 ## Contato
 
-**Localização:** Camaragibe – PE
-
-**E-mail:** alvesivananutri@gmail.com
-
-**LinkedIn:**  
-linkedin.com/in/alvesivananutri
+- LinkedIn: https://linkedin.com/in/alvesivana
+- E-mail: iapietra.ia@gmail.com
